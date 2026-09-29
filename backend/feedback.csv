@@ -1,0 +1,21 @@
+id,date,customer_context,feedback_text,product_area,sentiment,issue_request_type
+FB-001,2026-01-06,"BrightDesk, 18-person support team","Opening the billing screen takes long enough that agents sometimes refresh the page.",Billing,Negative,Performance issue
+FB-002,2026-01-09,"Northstar Legal, 42 users","The workflow editor is powerful, but new automations are difficult to configure without documentation.",Workflow builder,Negative,Usability issue
+FB-003,2026-01-14,"Solo consultant","I would like a night theme for late evening work.",UI/preferences,Neutral,Feature request
+FB-004,2026-01-21,"GreenCart, e-commerce startup","Our checkout-related automation occasionally pauses for 20–30 seconds before completing.",Automations,Negative,Performance issue
+FB-005,2026-01-28,"Atlas Tutors, 11 users","The weekly activity digest is useful, but it contains too much detail for managers.",Reporting,Mixed,Feature improvement
+FB-006,2026-02-03,"BrightDesk, follow-up ticket","Billing pages still feel sluggish, especially when loading invoices from last year.",Billing,Negative,Performance issue
+FB-007,2026-02-07,"PixelForge, design agency","Please add dark mode. The white interface is uncomfortable during evening review sessions.",UI/preferences,Negative,Feature request
+FB-008,2026-02-12,"Northstar Legal, 42 users","We can build the workflow, but it is hard to tell which step failed after a run times out.",Workflow builder,Negative,Observability/usability issue
+FB-009,2026-02-18,"GreenCart, e-commerce startup","The payment notification workflow completed faster this month; we have not seen the long pause recently.",Automations,Positive,Performance improvement
+FB-010,2026-02-24,"Harbor Health, 65 users","A CSV export from reports produced duplicate rows once. We could not reproduce it.",Reporting,Negative,One-off bug
+FB-011,2026-03-04,"CloudNine HR, 27 users","Checkout automation is still taking several seconds to trigger when traffic is high.",Automations,Negative,Performance issue
+FB-012,2026-03-08,"PixelForge, design agency","Dark mode would make dashboard reviews much easier for our team.",UI/preferences,Neutral,Feature request
+FB-013,2026-03-13,"BrightDesk, 18-person support team","Invoice search is better than before, although the first billing-page load remains slow.",Billing,Mixed,Performance issue
+FB-014,2026-03-19,"Atlas Tutors, 11 users","The activity digest is now much easier to scan after the recent formatting changes.",Reporting,Positive,Improvement confirmation
+FB-015,2026-03-26,"GreenCart, e-commerce startup","Our order-confirmation workflow occasionally waits before it starts. It is less frequent, but it has not disappeared.",Automations,Negative,Recurring performance issue
+FB-016,2026-04-02,"Maple & Co., 31 users","We need a darker color scheme for the dashboard and workflow editor.",UI/preferences,Neutral,Feature request
+FB-017,2026-04-09,"CloudNine HR, 27 users","The checkout trigger delay happened again during our Monday peak.",Automations,Negative,Recurring performance issue
+FB-018,2026-04-15,"Northstar Legal, 42 users","Workflow setup feels easier now that failed steps show more useful messages.",Workflow builder,Positive,Improvement confirmation
+FB-019,2026-04-21,"PixelForge, design agency","Dark mode is becoming important for our distributed team; several people have asked for it.",UI/preferences,Negative,Increasing feature request
+FB-020,2026-04-27,"GreenCart, e-commerce startup","The checkout workflow is quicker than it was in January, but peak-time delays still affect some orders.",Automations,Mixed,Improving but unresolved issue
